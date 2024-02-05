@@ -1,6 +1,7 @@
 # LLM-Projects
 ## Personalized Health Assistant
 <img src="https://github.com/Dherya27/LLM-Projects/blob/main/pic.png" width="50%" alt="run_instruction">
+
 ![user_input](https://github.com/Dherya27/LLM-Projects/blob/main/user_input.png)
 
 
