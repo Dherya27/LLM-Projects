@@ -1,5 +1,7 @@
 # LLM-Projects
 ## Personalized Health Assistant
+I used Google Gemini Pro as a Large Language Model. (https://ai.google.dev/?utm_source=google&utm_medium=cpc&utm_campaign=brand_core_brand&gad_source=1&gclid=CjwKCAiAiP2tBhBXEiwACslfnjXRtvQzQrgPm61jo5-Y10zriz4d93fbTaO_F-AhMSn2MWZMH7b2_xoCFo0QAvD_BwE)
+
 <img src="https://github.com/Dherya27/LLM-Projects/blob/main/pic.png" width="50%" alt="run_instruction">
 
 ![user_input](https://github.com/Dherya27/LLM-Projects/blob/main/user_input.png)
